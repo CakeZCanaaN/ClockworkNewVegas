@@ -1,0 +1,9 @@
+"cwnewvegas"
+{
+	"base"			"Clockwork"
+	"title"			"New Vegas"
+	"author"		"kurozael"
+	"version"		"1.02"
+	"description"	"A roleplaying schema developed by Cloud Sixteen set in the Fallout universe."
+	"workshopid"	"128905807"
+}
